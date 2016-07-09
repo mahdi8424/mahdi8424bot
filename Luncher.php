@@ -137,8 +137,8 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $pmembersiddd[1
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
 Get Out Of Here Idiot🖕
 --------------------------------
-شما در لیست سیاه هستید🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+شما در لیست سیاه قرار دارید 🚫
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -214,7 +214,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Ban
 Get Out Of Here Idiot🖕
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -274,7 +274,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Ban
 Get Out Of Here Idiot🖕
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -326,10 +326,10 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $pmembersiddd[1
 }else{
   
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
-Get Out Of Here Idiot🖕
+Do Not Send Any Message!
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -383,10 +383,10 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $pmembersiddd[1
 }else{
   
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
-Get Out Of Here Idiot🖕
+Do Not Send Any Message!
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -440,7 +440,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Ban
 Get Out Of Here Idiot🖕
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -492,10 +492,10 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $pmembersiddd[1
 }else{
   
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
-Get Out Of Here Idiot🖕
+Do Not Send Any Message!
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 
 }
     }
@@ -622,10 +622,10 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" =>$pmembersiddd[1]
 }else{
   if($substr !="thisisnarimanfrombeatbotteam"){
 apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>You Are Banned</b>🚫
-Get Out Of Here Idiot🖕
+Do Not Send Any Message!
 --------------------------------
 شما در لیست سیاه قرار دارید 🚫
-لطفا پیام ندهید🖕" ,"parse_mode" =>"HTML"));	
+لطفا پیام ندهید" ,"parse_mode" =>"HTML"));	
 }
 else{
   $textfa =str_replace("thisisnarimanfrombeatbotteam","🖕",$text);;
